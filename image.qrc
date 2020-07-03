@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="back_1">images/back_1/back_6.png</file>
+        <file alias="btn_1">images/back_1/btn/btn_1_normal.png</file>
+        <file alias="btn_1_p">images/back_1/btn/btn_1_pressed.png</file>
+        <file alias="btn_2">images/back_1/btn/btn_2_normal.png</file>
+        <file alias="btn_2_p">images/back_1/btn/btn_2_pressed.png</file>
+        <file alias="btn_3">images/back_1/btn/btn_3_normal.png</file>
+        <file alias="btn_3_p">images/back_1/btn/btn_3_pressed.png</file>
+        <file alias="btn_4">images/back_1/btn/btn_4_normal.png</file>
+        <file alias="btn_4_p">images/back_1/btn/btn_4_pressed.png</file>
+        <file alias="back_2">images/back_3_2.png</file>
+        <file alias="btn_hover">images/btn_hover.png</file>
+        <file alias="btn_normal">images/btn_normal.png</file>
+        <file alias="btn_pressed">images/btn_pressed.png</file>
+        <file alias="flower">images/Laurel_icon.png</file>
+        <file alias="star">images/star.png</file>
+        <file alias="v_dialog">images/victory_dialog.png</file>
+        <file alias="v_effect">images/victory.png</file>
+        <file alias="quit_dialog">images/dialog_4.png</file>
+        <file>images/bupt/level_1_a.jpg</file>
+        <file>images/bupt/level_1_b.jpg</file>
+        <file>images/bupt/level_1_c.jpg</file>
+        <file>images/bupt/level_1_d.jpg</file>
+        <file>images/btn2_hover.png</file>
+        <file>images/btn2_normal.png</file>
+        <file>images/btn2_pressed.png</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/5.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sounds/btn_pressed.wav</file>
+        <file>sounds/coin.wav</file>
+        <file>sounds/Collection Manager.wav</file>
+        <file>sounds/complete.wav</file>
+        <file>sounds/dialog.wav</file>
+        <file>sounds/dialog_close.wav</file>
+        <file>sounds/Don't Let Your Guard Down.wav</file>
+        <file>sounds/finalfanfare.wav</file>
+        <file>sounds/lose.wav</file>
+        <file>sounds/on_game.wav</file>
+        <file>sounds/open_game.wav</file>
+        <file>sounds/page_change.wav</file>
+        <file>sounds/swap.wav</file>
+        <file>sounds/victory_fireworks.wav</file>
+        <file>sounds/victory_jingle.wav</file>
+        <file>sounds/victory_screen_start.wav</file>
+        <file>sounds/warning.wav</file>
+        <file>sounds/btn_pressed_copy.wav</file>
+        <file>sounds/on_game~1.wav</file>
+        <file>sounds/void.wav</file>
+    </qresource>
+</RCC>

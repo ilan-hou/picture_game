@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1085</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#centralWidget{
+border-image:url(:/image/back_1)}
+
+.ToolButton{
+background-color:rgb(20,20,20)}</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QToolButton" name="btn_1">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>280</y>
+      <width>281</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>232</width>
+      <height>47</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <family>隶书</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#btn_1{border-image:url(:/image/btn_1)}
+#btn_1:pressed{border-image:url(:/image/btn_1_p)}</string>
+    </property>
+    <property name="text">
+     <string>开始游戏</string>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="btn_2">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>350</y>
+      <width>331</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>269</width>
+      <height>49</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <family>隶书</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#btn_2{border-image:url(:/image/btn_2)}
+#btn_2:pressed{border-image:url(:/image/btn_2_p)}</string>
+    </property>
+    <property name="text">
+     <string>休闲模式</string>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="btn_3">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>410</y>
+      <width>331</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>270</width>
+      <height>54</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <family>隶书</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#btn_3{border-image:url(:/image/btn_3)}
+#btn_3:pressed{border-image:url(:/image/btn_3_p)}</string>
+    </property>
+    <property name="text">
+     <string>初始难度设置</string>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="btn_4">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>480</y>
+      <width>261</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>231</width>
+      <height>48</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <family>隶书</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#btn_4{border-image:url(:/image/btn_4)}
+#btn_4:pressed{border-image:url(:/image/btn_4_p)}</string>
+    </property>
+    <property name="text">
+     <string>退出</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
